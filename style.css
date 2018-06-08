@@ -1,1 +1,15 @@
-style.css
+body {
+	background: #f9e933;
+}
+
+header, main, footer {
+	min-width: 855px;
+}
+
+header {
+	background: white;
+}
+
+main {
+	background: white;
+}
