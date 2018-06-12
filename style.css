@@ -37,7 +37,7 @@ main .leftcontent {
 }
 
 main .rightcontent {
-	float: left;
+	float: right;
 	width: 285px;
 }
 
@@ -51,6 +51,6 @@ footer .contact {
 }
 
 footer .sitemap {
-	float: left;
+	float: right;
 	width: 285px;
 }
