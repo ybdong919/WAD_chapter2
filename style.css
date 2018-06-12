@@ -1,5 +1,6 @@
 body {
 	background: #f9e933;
+	font-size: 100%;
 }
 
 header, main, footer {
@@ -53,4 +54,28 @@ footer .contact {
 footer .sitemap {
 	float: right;
 	width: 285px;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+p, li, a {
+	font-family: 'Bubblegum Sans', cursive;
+}
+
+h1 {
+	font-size: xx-large;
+}
+
+h2 {
+	font-size: x-large;
+}
+
+h3 {
+	font-size: large;
+}
+
+p, li {
+	font-size: 1.2em;
 }
