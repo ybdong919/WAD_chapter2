@@ -5,6 +5,7 @@ body {
 
 header, main, footer {
 	min-width: 855px;
+	padding: 25px;
 }
 
 header .container, main .container, footer .container {
@@ -78,4 +79,18 @@ h3 {
 
 p, li {
 	font-size: 1.2em;
+}
+
+a {
+	color: red;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-decoration-color: blue;
+}
+
+.leftcontent p, .leftcontent ul {
+	padding:10px;
 }
